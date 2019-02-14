@@ -1,0 +1,41 @@
+{
+  "name": "project",
+  "author": "Emilio M. Rangel <emiliogarrorangelxboxone@hotmail.com>",
+  "license": "MIT",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint"
+  },
+  "dependencies": {
+    "axios": "^0.18.0",
+    "firebase": "^5.5.9",
+    "nouislider": "11.1.0",
+    "particles.js": "^2.0.0",
+    "v-tooltip": "2.0.0-rc.33",
+    "vue": "^2.5.17",
+    "vue-carousel": "0.13.1",
+    "vue-clickaway": "2.2.2",
+    "vue-lazyload": "1.2.6",
+    "vue-material": "1.0.0-beta-10.2",
+    "vue-resource": "^1.5.1",
+    "vue-router": "^3.0.1",
+    "vuetify": "^1.3.5",
+    "vuex": "^3.0.1"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "^3.1.1",
+    "@vue/cli-plugin-eslint": "^3.0.5",
+    "@vue/cli-service": "^3.1.2",
+    "@vue/eslint-config-standard": "^3.0.5",
+    "node-sass": "4.9.3",
+    "sass-loader": "7.1.0",
+    "stylus": "^0.54.5",
+    "stylus-loader": "^3.0.1",
+    "vue-cli-plugin-vuetify": "^0.4.5",
+    "vue-template-compiler": "^2.5.17",
+    "vuetify-loader": "^1.0.6"
+  }
+}
